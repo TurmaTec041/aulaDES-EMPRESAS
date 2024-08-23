@@ -19,8 +19,8 @@
 
 
 
-# 2. Estética: Sistema de Gestão de Salão de
-Beleza
+# 2. Estética: Sistema de Gestão de Salão de Beleza
+
 
       Descrição: Um
       sistema para gerenciar um salão de beleza, onde clientes podem marcar
@@ -40,8 +40,8 @@ Beleza
 
 
 
-# 3. Vestuário: Sistema de Gestão de Loja de
-Roupas
+# 3. Vestuário: Sistema de Gestão de Loja de Roupas
+
 
       Descrição: Um
       sistema de gerenciamento para uma loja de roupas que inclui controle de
@@ -78,19 +78,6 @@ Roupas
 
 
 
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
 # 5. Tecnologia: Sistema de Suporte Técnico
 
       Descrição: Um
@@ -110,8 +97,8 @@ Roupas
 
 
 
-# 6. Alimentos: Sistema de Pedidos Online para
-Restaurante
+# 6. Alimentos: Sistema de Pedidos Online para Restaurante
+
 
       Descrição: Um
       sistema onde os clientes podem fazer pedidos online de um restaurante,
@@ -130,8 +117,8 @@ Restaurante
 
 
 
-# 7. Esporte: Sistema de Gestão de Eventos
-Esportivos
+# 7. Esporte: Sistema de Gestão de Eventos Esportivos
+
 
       Descrição: Um
       sistema para organizar eventos esportivos, como torneios e competições,
@@ -149,8 +136,8 @@ Esportivos
 
 
 
-# 8. Estética: Aplicativo de Consultoria de
-Beleza
+# 8. Estética: Aplicativo de Consultoria de Beleza
+
 
       Descrição: Um
       aplicativo que conecta clientes com consultores de beleza, oferecendo
